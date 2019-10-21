@@ -19,3 +19,9 @@ y 88 + 209 = 297. Encuentra el mayor número Kaprekar menor que 100 y sigue adel
 
 **Explicación**
 99^2 = 9801, 98 + 01 = 99.
+
+
+
+
+
+
